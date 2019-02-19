@@ -40,7 +40,7 @@ d78b6f302l25cdc811adfe8d4e7c9fd34
 出题人丢下个logo就走了，大家自己看着办吧
 
 用010 editor打开，没发现什么。用stegsolve打开。<br>
-<img src="https://github.com/sunSUNQ/PCTF_BASIC/raw/master/picture/stegsolve.png" width="150" height="150" alt="stegsolve"/><br>
+<img src="https://github.com/sunSUNQ/PCTF_BASIC/raw/master/picture/stegsolve.png" alt="stegsolve"/><br>
 
 **PCTF{You_are_R3ally_Car3ful}**<br>
 
@@ -72,7 +72,7 @@ F12 Network 看包头信息，有个secret标签，Welcome_to_phrackCTF_2016
 
 文件直接将。zip后边的去掉，可以解压，解压后发现一个word文档存在一个图片。
 将word文档解压，获得文件夹，才word/media/下发现两个图片，其中一个是flag.<br>
-<img src="https://github.com/sunSUNQ/PCTF_BASIC/raw/master/picture/help.png" width="150" height="150" alt="help"/><br>
+<img src="https://github.com/sunSUNQ/PCTF_BASIC/raw/master/picture/help.png" alt="help"/><br>
 
 
 
@@ -81,7 +81,7 @@ F12 Network 看包头信息，有个secret标签，Welcome_to_phrackCTF_2016
 nit yqmg mqrqn bxw mtjtm nq rqni fiklvbxu mqrqnl xwg dvmnzxu lqjnyxmt xatwnl, rzn nit uxnntm xmt zlzxuuk mtjtmmtg nq xl rqnl. nitmt vl wq bqwltwlzl qw yivbi exbivwtl pzxuvjk xl mqrqnl rzn nitmt vl atwtmxu xamttetwn xeqwa tsftmnl, xwg nit fzruvb, nixn mqrqnl ntwg nq gq lqet qm xuu qj nit jquuqyvwa: xbbtfn tutbnmqwvb fmqamxeevwa, fmqbtll gxnx qm fiklvbxu ftmbtfnvqwl tutbnmqwvbxuuk, qftmxnt xznqwqeqzluk nq lqet gtamtt, eqdt xmqzwg, qftmxnt fiklvbxu fxmnl qj vnltuj qm fiklvbxu fmqbtlltl, ltwlt xwg exwvfzuxnt nitvm twdvmqwetwn, xwg tsivrvn vwntuuvatwn rtixdvqm - tlftbvxuuk rtixdvqm yivbi evevbl izexwl qm qnitm xwvexul. juxa vl lzrlnvnzntfxllvldtmktxlkkqzaqnvn. buqltuk mtuxntg nq nit bqwbtfn qj x mqrqn vl nit jvtug qj lkwnitnvb rvquqak, yivbi lnzgvtl twnvnvtl yiqlt wxnzmt vl eqmt bqefxmxrut nq rtvwal nixw nq exbivwtl.
 
 统计词频分析。拿到https://quipqiup.com/网站上跑一下就ok<br>
-<img src="https://github.com/sunSUNQ/PCTF_BASIC/raw/master/picture/quipqiup.png" width="150" height="150" alt="quipqiup"/><br>
+<img src="https://github.com/sunSUNQ/PCTF_BASIC/raw/master/picture/quipqiup.png" alt="quipqiup"/><br>
 
 **PCTF{substitutepassisveryeasyyougotit}**<br>
 
@@ -110,7 +110,7 @@ flag形式为32位大写md5
 提交格式：flag{WIFI密码}
 
 使用aircrack_ng破解，用法百度，直接下载常用wifi密码词典，爆破。<br>
-<img src="https://github.com/sunSUNQ/PCTF_BASIC/raw/master/picture/aircrack_ng.png" width="150" height="150" alt="aircrack_ng"/><br>
-<img src="https://github.com/sunSUNQ/PCTF_BASIC/raw/master/picture/aircrack-ng.png" width="150" height="150" alt="aircrack-ng"/><br>
+<img src="https://github.com/sunSUNQ/PCTF_BASIC/raw/master/picture/aircrack_ng.png" alt="aircrack_ng"/><br>
+<img src="https://github.com/sunSUNQ/PCTF_BASIC/raw/master/picture/aircrack-ng.png" alt="aircrack-ng"/><br>
 
 **flag{11223344}**
