@@ -15,9 +15,11 @@ FLAG: PCTF{你的答案}
     大部分出现这种问题的就是用gbk编码的文件用utf-8编码格式打开。当编码格式中出现utf-8无法解析的字节，那么这个字节就会被替换成 efbf bdef bfbd 这时我们会发现文件大小也发生了改变，因为未知字节全部变成三个未知字节。 而这时候再将其转换为gbk。
 锟 (0xEFBF)，斤（0xBDEF），拷（0xBFBD）<br>
 
-<img src="https://github.com/sunSUNQ/PCTF_BASIC/tree/master/picture/gbk.png" width="150" height="150" alt="gbk"/><br>
+<img src="https://github.com/sunSUNQ/PCTF_BASIC/tree/master/picture/gbk.png" alt="gbk"/><br>
 
-**PCTF{EFBFBDEFBFBD}**<br>
+**PCTF{EFBFBDEFBFBD}**<br><br>
+
+
 
 ## 手贱<br>
 
@@ -31,6 +33,8 @@ d78b6f302l25cdc811adfe8d4e7c9fd34
 
 **PCTF{hack}**<br>
 
+
+
 ## 美丽的实验室logo<br>
 
 出题人丢下个logo就走了，大家自己看着办吧
@@ -39,6 +43,8 @@ d78b6f302l25cdc811adfe8d4e7c9fd34
 <img src="https://github.com/sunSUNQ/PCTF_BASIC/tree/master/picture/stegsolve.png" width="150" height="150" alt="stegsolve"/><br>
 
 **PCTF{You_are_R3ally_Car3ful}**<br>
+
+
 
 ## Secret <br>
 
@@ -52,9 +58,13 @@ F12 Network 看包头信息，有个secret标签，Welcome_to_phrackCTF_2016
 
 **PCTF{Welcome_to_phrackCTF_2016}**<br>
 
+
+
 ## 取证 <br>
 
 百度搜索内存取证软件，Volatility。
+
+
 
 ## help！！！<br>
 
@@ -64,6 +74,8 @@ F12 Network 看包头信息，有个secret标签，Welcome_to_phrackCTF_2016
 将word文档解压，获得文件夹，才word/media/下发现两个图片，其中一个是flag.<br>
 <img src="https://github.com/sunSUNQ/PCTF_BASIC/tree/master/picture/help.png" width="150" height="150" alt="help"/><br>
 
+
+
 ## A Piece of cake <br>
 
 nit yqmg mqrqn bxw mtjtm nq rqni fiklvbxu mqrqnl xwg dvmnzxu lqjnyxmt xatwnl, rzn nit uxnntm xmt zlzxuuk mtjtmmtg nq xl rqnl. nitmt vl wq bqwltwlzl qw yivbi exbivwtl pzxuvjk xl mqrqnl rzn nitmt vl atwtmxu xamttetwn xeqwa tsftmnl, xwg nit fzruvb, nixn mqrqnl ntwg nq gq lqet qm xuu qj nit jquuqyvwa: xbbtfn tutbnmqwvb fmqamxeevwa, fmqbtll gxnx qm fiklvbxu ftmbtfnvqwl tutbnmqwvbxuuk, qftmxnt xznqwqeqzluk nq lqet gtamtt, eqdt xmqzwg, qftmxnt fiklvbxu fxmnl qj vnltuj qm fiklvbxu fmqbtlltl, ltwlt xwg exwvfzuxnt nitvm twdvmqwetwn, xwg tsivrvn vwntuuvatwn rtixdvqm - tlftbvxuuk rtixdvqm yivbi evevbl izexwl qm qnitm xwvexul. juxa vl lzrlnvnzntfxllvldtmktxlkkqzaqnvn. buqltuk mtuxntg nq nit bqwbtfn qj x mqrqn vl nit jvtug qj lkwnitnvb rvquqak, yivbi lnzgvtl twnvnvtl yiqlt wxnzmt vl eqmt bqefxmxrut nq rtvwal nixw nq exbivwtl.
@@ -72,6 +84,8 @@ nit yqmg mqrqn bxw mtjtm nq rqni fiklvbxu mqrqnl xwg dvmnzxu lqjnyxmt xatwnl, rz
 <img src="https://github.com/sunSUNQ/PCTF_BASIC/tree/master/picture/quipqiup.png" width="150" height="150" alt="quipqiup"/><br>
 
 **PCTF{substitutepassisveryeasyyougotit}**<br>
+
+
 
 ## -.-字符串<br>
 
@@ -86,6 +100,8 @@ flag形式为32位大写md5
 直接找个网站在线解码摩斯密码。
 
 **FLAG522018D665387D1DA931812B77763410** <br>
+
+
 
 ## 握手包 <br>
 
